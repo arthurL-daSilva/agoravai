@@ -40,7 +40,7 @@ public class Combo {
         precoCombo(escolha);
     }
 
-    public void precoCombo(int escolha){
+    private void precoCombo(int escolha){
 
         switch (escolha) {
             case 1:
